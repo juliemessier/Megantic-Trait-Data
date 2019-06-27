@@ -2,7 +2,7 @@
 
 CITE Data DOI: 
 
-Data owners: Julie Messier; Bill Shipley; Mark Vellend. Email addresses: julie dot messier at gmail dot com; bill dot shipley at usherbrooke dot ca; mark dot vellend at usherbrooke dot ca.  Data DOI: - https://doi.org/. 
+Data owners: Julie Messier; Bill Shipley; Mark Vellend. Email addresses: julie dot messier at gmail dot com; bill dot shipley at usherbrooke dot ca; mark dot vellend at usherbrooke dot ca.  Data DOI: 10.5281/zenodo.3258342 - https://doi.org/10.5281/zenodo.3258342 
 
 Dataset Name: Mont_Mégantic_Individual_Traits_2016-2017. Dates of data collection: May 2016 - March 2017.
 
