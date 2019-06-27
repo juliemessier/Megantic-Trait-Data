@@ -6,7 +6,7 @@ Data owners: Julie Messier; Bill Shipley; Mark Vellend. Email addresses: julie d
 
 Dataset Name: Mont_Mégantic_Individual_Traits_2016-2017. Dates of data collection: May 2016 - March 2017.
 
-SIZE Number of traits: 14, Number of enviornmental variables: 4, Number of covariates: 5, Number of species: 74, Number of individuals: 643, Number of individuals per species: 1 to 13, average = 9.
+SIZE Number of traits: 14, Number of enviornmental variables: 4, Number of covariates: 5, Number of species: 74, Number of individuals: 643, Number of individuals per species: 9 on average.
 
 SITE Study site: Mont Mégantic, Johnville, Mont Bellevue and Bishop, Montérégie, Québec, Canada. Boundary coordinates North: 45°40'5.8584" N (45.668294) Boundary coordinates South: 45°19'2.6508"N (45.317403) Boundary coordinates East: -72°28'58.656" (-72.48296) Boundary coordinates West: 71°06'50.101"W (-71.113917) Data georeferenced: yes
 
