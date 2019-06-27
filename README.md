@@ -6,15 +6,15 @@ Data owners: Julie Messier; Bill Shipley; Mark Vellend. Email addresses: julie d
 
 Dataset Name: Mont_Mégantic_Individual_Traits_2016-2017. Dates of data collection: May 2016 - March 2017.
 
-SIZE Number of traits: 14, Number of enviornmental variables: 4, Number of covariates: 5, Number of species: 74, Number of individuals: 643, Number of individuals per species: 9 on average.
+CONTAINS Number of traits: 14, Number of enviornmental variables: 4, Number of covariates: 11, Number of species: 74, Number of individuals: 643, Number of individuals per species: 9 on average.
 
 SITE Study site: Mont Mégantic, Johnville, Mont Bellevue and Bishop, Montérégie, Québec, Canada. Boundary coordinates North: 45°40'5.8584" N (45.668294) Boundary coordinates South: 45°19'2.6508"N (45.317403) Boundary coordinates East: -72°28'58.656" (-72.48296) Boundary coordinates West: 71°06'50.101"W (-71.113917) Data georeferenced: yes
 
 STUDY ORGANISMS 1-13 individuals for 74 understory and canopy vascular species. Ontogenetic stage: vegetative to reproductive.
 
-TRAIT LIST & ASSOCIATED UNITS: . root location, minimum root location, maximum root location (0 : top humus, 1 : mid humus, 2 : bottom humus, 3 : interface humus/mineral, 4 : <5cm mineral, 5 : >5cm mineral), vegetative height (cm), reproductive height(cm), Lamina thickness (µm), midvein thickness (µm), Leaf Mass per Area (g/cm2), Leaf Dry Matter Content (g/g), Leaf Area (g), Leaf Mass Fraction (g/g), Support Mass Fraction (g/g), Reproductive Mass Fraction (g/g), Fine Root Diameter (mm), Specific Root Length (cm/mg), Mycorrhizal Fraction.
+TRAIT LIST & ASSOCIATED UNITS: root location, minimum root location, maximum root location (0 : top humus, 1 : mid humus, 2 : bottom humus, 3 : interface humus/mineral, 4 : <5cm mineral, 5 : >5cm mineral), vegetative height (cm), reproductive height(cm), Lamina thickness (µm), midvein thickness (µm), Leaf Mass per Area (g/cm2), Leaf Dry Matter Content (g/g), Leaf Area (g), Leaf Mass Fraction (g/g), Support Mass Fraction (g/g), Reproductive Mass Fraction (g/g), Fine Root Diameter (mm), Specific Root Length (cm/mg), Mycorrhizal Fraction.
 
-ENVIRONMENTAL VARIABLES & ASSOCIATED UNITS: Canopy description, Rock presence, Slope, Hummus depth (cm), Leaf Mass Fraction (g/g)  
+ENVIRONMENTAL VARIABLES & ASSOCIATED UNITS: Canopy description, Rock presence, Slope, Hummus depth (cm) 
 
 COVARIATES & ASSOCIATED UNITS: Species code, Latin Name, Canopy Layer, Life Form, Harvest Date, Processing Date, Site, Latitude, Longitude, reproductive stage (0 = vegetative, 1 = pre-floral, 2 = immature flowers, 3 = mature flowers, 4 = fruits or sori), storage organ.
 
